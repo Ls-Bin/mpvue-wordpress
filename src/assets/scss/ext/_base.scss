@@ -1,0 +1,30 @@
+@import '../../icons/iconfont.css';
+.iconfont{
+  line-height: 1;
+}
+
+
+
+.bg-color{
+  background-color:$colorBg
+}
+
+
+.section-inner{
+  width:calc(100% - 140rpx);
+  margin: 0 auto;
+
+}
+
+
+.screen-reader-text{
+  clip: rect( .1rpx, .1rpx, .1rpx, .1rpx );
+  height: .1rpx;
+  overflow: hidden;
+  position: absolute !important;
+  width: .1rpx;
+}
+
+
+
+
